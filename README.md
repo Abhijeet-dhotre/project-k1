@@ -4,4 +4,4 @@ A mobile application built with React Native.
 
 ## Features
 
-- Text-to-Speech
+- Text-to-Speech (Kyutai Pocket TTS)
