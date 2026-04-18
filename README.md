@@ -1,4 +1,7 @@
 # Project K1
-Model App
-React Native
-hi
+
+A mobile application built with React Native.
+
+## Features
+
+- Text-to-Speech
